@@ -6,13 +6,18 @@
 
 ## Statistical investigation of non-pharmacological factors influencing migraines using a 2×2 factorial design.
 
-<p align="center">
-  <img src="migraine_frequency_interaction_plot.png" alt="Effects of Sleep Quality and Water Intake on Migraine Frequency" width="600">
-</p>
-
-<p align="center">
-  <img src="migraine_intensity_interaction_plot.png" alt="Effects of Sleep Quality and Water Intake on Migraine Intensity" width="600">
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="migraine_frequency_interaction_plot.png" alt="Migraine Frequency" width="100%"><br>
+      <em>Figure 1: Effects on Migraine Frequency</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="migraine_intensity_interaction_plot.png" alt="Migraine Intensity" width="100%"><br>
+      <em>Figure 2: Effects on Migraine Intensity</em>
+    </td>
+  </tr>
+</table>
 
 ## 📋 Overview
 
